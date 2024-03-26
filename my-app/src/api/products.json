@@ -1,0 +1,17 @@
+[
+    {
+        "id" : 0,
+        "image" : "https://img.freepik.com/free-photo/smartphone-balancing-with-pink-background_23-2150271746.jpg?w=740&t=st=1711170397~exp=1711170997~hmac=86d8dc567d8f5d025e63dfc81da2c58b1737793d8493fe0a16bae32df07c4e67",
+        "title" : " Iphone"
+    },
+    {
+        "id" : 1,
+        "image" : "https://img.freepik.com/free-photo/smartphone-balancing-with-pink-background_23-2150271746.jpg?w=740&t=st=1711170397~exp=1711170997~hmac=86d8dc567d8f5d025e63dfc81da2c58b1737793d8493fe0a16bae32df07c4e67",
+        "title" : "Samsung"
+    },
+    {
+        "id" : 2,
+        "image" : "https://img.freepik.com/free-photo/smartphone-balancing-with-pink-background_23-2150271746.jpg?w=740&t=st=1711170397~exp=1711170997~hmac=86d8dc567d8f5d025e63dfc81da2c58b1737793d8493fe0a16bae32df07c4e67",
+        "title" : "Realme"
+    }
+]

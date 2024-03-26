@@ -1,0 +1,14 @@
+.main-button{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    column-gap: 5px;
+}
+.active-button{
+    padding: 5px;
+    background-color: darkviolet;
+    color: white;
+    border-radius: 50%;
+    border: 1px  #ffffff;
+    
+}
